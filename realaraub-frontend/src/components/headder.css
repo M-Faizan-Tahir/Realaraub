@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.headder{
+    font-family: Anton;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px 10px;
+    font-style: italic;
+    background-color: rgb(17, 202, 17);
+
+}
